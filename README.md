@@ -2,7 +2,7 @@
 
 - 🔧 Sou entusiasta de Cibersegurança, redes de computadores e infraestrutura
 - 🐚 Curto resolver problemas com Bash
-- 🛰️ Estudo análise de tráfego, ferramentas de segurança, redes de computadores, Proxmox, microcontroladores e tecnologia em geral
+- 🛰️ De microcontroladores a segurança cibernética, muita coisa me interessa
 - 🎯 Foco em projetos práticos, ambientes controlados e automações úteis
 
 ---
@@ -19,6 +19,8 @@
 ![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black)
 ![CTI](https://img.shields.io/badge/-CTI-121011?style=flat&logo=CTI&logoColor=white)
 ![TMUX](https://img.shields.io/badge/TMUX-1BB91F?style=flat&logo=tmux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![RaspberryPI](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 </div>
 
