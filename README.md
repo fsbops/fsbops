@@ -1,7 +1,7 @@
-<h1 align="center">🛠️ Bem-vindo ao meu GitHub 🛡️</h1>
+<h1 align="center">🛠️ Seja bem-vindo! 🛡️</h1>
 
 <p align="center">
-  🔍 Entusiasta de redes, cibersegurança e scripting<br>
+  🔍 Redes de computadores, cibersegurança e shell scripting<br>
   🧪 Construindo, automatizando e aprendendo no processo.
 </p>
 
@@ -9,9 +9,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔧 Cibersegurança, redes e infraestrutura
+- 🔧 Sou entusiasta de Cibersegurança, redes de computadores e infraestrutura
 - 🐚 Curto resolver problemas com Bash
-- 🛰️ Brinco com SIEMs, análise de tráfego, redes, mikrotik, Proxmox
+- 🛰️ Brinco com SIEMs, análise de tráfego, redes de computadores, Proxmox, microcontroladores e outras coisas relacionadas à tecnologia
 - 🎯 Foco em projetos práticos, ambientes controlados e automações úteis
 
 ---
