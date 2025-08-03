@@ -23,8 +23,8 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-306998?style=flat&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logoColor=white)
 ![Zeek](https://img.shields.io/badge/-Zeek-000000?style=flat&logo=zeek&logoColor=white)
+![TCPDump](https://img.shields.io/badge/-TCPDump-306998?style=flat&logo=tcpdump&logoColor=white)
 
-- 🧪 **tcpdump**
 - 🧠 **RITA (Real Intelligence Threat Analytics)**
 - 🌐 **Cyber Threat Intelligence**
 - 🕵️‍♂️ **DFIR (Digital Forensics and Incident Response)**
