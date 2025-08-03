@@ -2,7 +2,7 @@
 
 - 🔧 Sou entusiasta de Cibersegurança, redes de computadores e infraestrutura
 - 🐚 Curto resolver problemas com Bash
-- 🛰️ Brinco com SIEMs, análise de tráfego, redes de computadores, Proxmox, microcontroladores e tecnologia em geral
+- 🛰️ Estudo análise de tráfego, ferramentas de segurança, redes de computadores, Proxmox, microcontroladores e tecnologia em geral
 - 🎯 Foco em projetos práticos, ambientes controlados e automações úteis
 
 ---
