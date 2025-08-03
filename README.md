@@ -9,9 +9,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔧 Infraestrutura, redes e cibersegurança são meu habitat
+- 🔧 Cibersegurança, redes e infraestrutura
 - 🐚 Curto resolver problemas com Bash
-- 🛰️ Testes com OpenWRT, Mikrotik, SIEMs e análise de tráfego
+- 🛰️ Brinco com SIEMs, análise de tráfego, redes, mikrotik, Proxmox
 - 🎯 Foco em projetos práticos, ambientes controlados e automações úteis
 
 ---
@@ -35,10 +35,10 @@
 
 ### 🚧 Projetos em Andamento
 
-- 🧠 **Painel estilo WiFi Pineapple** com backend próprio (FastAPI + RouterOS)
-- 🌐 **Análise de tráfego** com Zeek e RITA
+- 🧠 **Customização do Wazuh** script para customização básica da interface do SIEM Wazuh
+- 🌐 **Análise de beaconing** com pfSense, Zeek, RITA e Wazuh
 - 📦 **Automação de listas** com shell scripts e APIs
-- 🔒 **Monitoramento de incidentes** com Wazuh + MISP + VT + 
+- 🔒 **Monitoramento de incidentes** com Wazuh + MISP + VT
 
 ---
 
@@ -46,7 +46,7 @@
 
 - 🔬 Investigação forense de processos em Linux
 - 🌍 Dashboards geográficos de ataques
-- 🛠️ Ambientes emulados com OpenWRT via QEMU
+- 🛠️ Criação de decoders e regras Wazuh
 
 ---
 
