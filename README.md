@@ -20,7 +20,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white)
-![pfSense](https://img.shields.io/badge/-Wazuh-005BAC?style=pfsense&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-005BAC?style=pfsense&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-306998?style=flat&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logoColor=white)
 ![Zeek](https://img.shields.io/badge/-Zeek-000000?style=flat&logo=zeek&logoColor=white)
