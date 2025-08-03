@@ -22,7 +22,7 @@
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white)
 ![pfSense](https://img.shields.io/badge/-pfSense-212121?style=pfsense&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-306998?style=flat&logo=wireshark&logoColor=white)
-![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logo=opensearch&logoColor=white)
 ![Zeek](https://img.shields.io/badge/-Zeek-000000?style=flat&logo=zeek&logoColor=white)
 ![TCPDump](https://img.shields.io/badge/-TCPDump-306998?style=flat&logo=tcpdump&logoColor=white)
 ![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black)
