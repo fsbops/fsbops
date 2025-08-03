@@ -28,7 +28,7 @@
 
 - 🧠 **Customização do Wazuh** com script para customização básica e rollback
 - 🌐 **Análise de beaconing** com pfSense, Zeek, RITA e Wazuh
-- 📦 **Automação de listas** com shell scripts e APIs
+- 📦 **Análise e classificação de acessos** com Wazuh + shell script + bases de dados públicas 
 - 🔒 **Monitoramento de incidentes** com Wazuh + MISP + VT
 
 ---
