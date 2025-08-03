@@ -35,7 +35,7 @@
 
 ### 🚧 Projetos em Andamento
 
-- 🧠 **Customização do Wazuh** script para customização básica da interface do SIEM Wazuh
+- 🧠 **Customização do Wazuh** com script para customização básica e rollback
 - 🌐 **Análise de beaconing** com pfSense, Zeek, RITA e Wazuh
 - 📦 **Automação de listas** com shell scripts e APIs
 - 🔒 **Monitoramento de incidentes** com Wazuh + MISP + VT
