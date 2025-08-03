@@ -1,12 +1,3 @@
-<h1 align="center">🛠️ Seja bem-vindo! 🛡️</h1>
-
-<p align="center">
-  🔍 Redes de computadores, cibersegurança e shell scripting<br>
-  🧪 Construindo, automatizando e aprendendo no processo.
-</p>
-
----
-
 ### 👨‍💻 Sobre mim
 
 - 🔧 Sou entusiasta de Cibersegurança, redes de computadores e infraestrutura
