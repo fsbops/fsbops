@@ -1,7 +1,7 @@
 ### 👨‍💻 Sobre mim
 
-- 🔧 Técnico em Eletroeletrônica por formação, curioso sobre tecnologia em geral
-- 🐚 Sou entusiasta de Cibersegurança, redes de computadores e infraestrutura, acho bacana resolver problemas com Bash
+- 🔧 Técnico em Eletroeletrônica por formação, graduando em Defesa Cibernética
+- 🐚 Sou entusiasta de Cibersegurança, redes de computadores e infraestrutura, acho massa analisar tráfego em busca de anomalias e construir soluções com bash
 - 🎯 Foco em projetos práticos, ambientes controlados e automações úteis
 
 ---
@@ -27,18 +27,17 @@
 
 ### 🚧 Projetos em Andamento
 
-- 🧠 **Customização do Wazuh** com script para customização básica da interface e rollback
-- 📦 **Análise e classificação de acessos** com Wazuh + shell script + bases de dados públicas 
-- 🌐 **Análise de beaconing** customizado com diversas ferramentas
+- 📦 **Análise e classificação de acessos e tráfego** com Wazuh + shell script + bases de dados e serviços públicos
+- 🌐 **Análise de beaconing e persistência** customizado com diversas ferramentas
 - 🔒 **Monitoramento de incidentes**
   
 ---
 
 ### 📚 Aprendizados Atuais
 
-- 🔬 Monitoramento de processos em Linux
-- 🌍 Dashboards geográficos de ataques
-- 🛠️ Criação de decoders e regras para Wazuh
+- 🔬 Monitoramento de processos em Linux usando eBPF e derivados
+- 🌍 Estudo e coleta de inteligência usando honeypots e tráfego descartado de firewalls
+- 🛠️ Criação de integrações para o Wazuh
 
 ---
 
