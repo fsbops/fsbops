@@ -1,11 +1,10 @@
 ### 👨‍💻 Sobre mim
 
-- 🔧 Técnico em Eletroeletrônica, graduando em Defesa Cibernética
-- 🐚 Sou entusiasta de cibersegurança, redes de computadores e infraestrutura, analiso tráfego, identifico anomalias e resolvo problemas.
-- 🎯 Foco em projetos práticos, ambientes controlados e automações úteis
+- 🔧 Técnico em Eletroeletrônica, graduado em Defesa Cibernética, curioso por natureza
+- 🐚 Sou entusiasta de cibersegurança, redes de computadores e infraestrutura, analiso tráfego, identifico anomalias e tento resolver problemas
 
 ---
-### ⚙️ Tecnologias & Ferramentas
+### ⚙️ Algumas tecnologias, ferramentas e disciplinas com as quais tenho familiaridade
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
@@ -25,10 +24,10 @@
 
 ---
 
-### 🚧 Projetos em Andamento
+### 🚧 Projetos em que estou envolvido no momento
 
-- 📦 **Análise e classificação de acessos e tráfego** com Wazuh + shell script + bases de dados e serviços públicos
-- 🌐 **Análise de beaconing e persistência** customizado com diversas ferramentas
+- 📦 **Análise e classificação de acessos e tráfego com Wazuh + shell script + bases de dados e serviços públicos**
+- 🌐 **Análise de beaconing e persistência customizado com diversas ferramentas**
 - 🔒 **Monitoramento de incidentes**
   
 ---
@@ -39,14 +38,3 @@
 - 🌍 Agregação de inteligência usando honeypots e tráfego descartado de firewalls
 - 🛠️ Integrações de soluções para o Wazuh
 
----
-
-### 🤝 Fale comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesbaptista)
-
----
-
-<p align="center">
-  🔗 Repositórios em constante evolução. Teste, erro e aprendizado.
-</p>
