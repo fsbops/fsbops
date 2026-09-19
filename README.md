@@ -4,7 +4,7 @@
 - 🐚 Sou entusiasta de cibersegurança, redes de computadores e infraestrutura, analiso tráfego, identifico anomalias e tento resolver problemas
 
 ---
-### ⚙️ Algumas tecnologias, ferramentas e disciplinas com as quais tenho familiaridade
+### ⚙️ Algumas tecnologias e ferramentas com as quais tenho familiaridade
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
@@ -26,9 +26,9 @@
 
 ### 🚧 Projetos em que estou envolvido no momento
 
-- 📦 **Análise e classificação de acessos e tráfego com Wazuh + shell script + bases de dados e serviços públicos**
-- 🌐 **Análise de beaconing e persistência customizado com diversas ferramentas**
-- 🔒 **Monitoramento de incidentes**
+- 📦 **Coleta de inteligência e comportamento de redes usando ferramentas e recusos diversos, agregação de dados**
+- 🌐 **Análise de beaconing e persistência com firewall + NSM + SIEM**
+- 🔒 **Monitoramento de ASM**
   
 ---
 
