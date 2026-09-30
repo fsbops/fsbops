@@ -19,7 +19,7 @@
 ![CTI](https://img.shields.io/badge/-CTI-121011?style=flat&logo=CTI&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![RaspberryPI](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
 </div>
 
