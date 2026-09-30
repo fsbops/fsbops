@@ -14,7 +14,7 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-306998?style=flat&logo=wireshark&logoColor=white)
 ![TCPDump](https://img.shields.io/badge/-TCPDump-306998?style=flat&logo=tcpdump&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logo=opensearch&logoColor=white)
-![Zeek](https://img.shields.io/badge/-Zeek-000000?style=flat&logo=zeek&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-E55B13?style=flat&logo=linux&logoColor=white&labelColor=0D0000)
 ![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black)
 ![CTI](https://img.shields.io/badge/-CTI-121011?style=flat&logo=CTI&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
