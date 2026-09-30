@@ -10,7 +10,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![TMUX](https://img.shields.io/badge/TMUX-1BB91F?style=flat&logo=tmux&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white)
-![pfSense](https://img.shields.io/badge/-pfSense-212121?style=pfsense&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-%23212121?style=flat&logo=pfsense&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-306998?style=flat&logo=wireshark&logoColor=white)
 ![TCPDump](https://img.shields.io/badge/-TCPDump-306998?style=flat&logo=tcpdump&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logo=opensearch&logoColor=white)
@@ -20,6 +20,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![RaspberryPI](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=flat&logo=virustotal&logoColor=white)
 
 </div>
 
