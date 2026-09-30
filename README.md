@@ -28,9 +28,9 @@
 
 ### 🚧 Projetos em que estou envolvido no momento
 
-- 📦 **Coleta de inteligência e comportamento de redes usando ferramentas e recusos diversos, agregação de dados**
-- 🌐 **Análise de beaconing e persistência com firewall + NSM + SIEM**
+- 📦 **Coleta de inteligência, comportamento em rede, análise de beaconing e persistência com firewall + NSM + SIEM**
 - 🔒 **Monitoramento de ASM**
+- 🎯 **Silent Recon baseado em dominio**
   
 ---
 
