@@ -1,7 +1,7 @@
 ### 👨‍💻 Sobre mim
 
-- 🔧 Técnico em Eletroeletrônica, graduado em Defesa Cibernética, curioso por natureza
-- 🐚 Sou entusiasta de cibersegurança, redes de computadores e infraestrutura, analiso tráfego, identifico anomalias e tento resolver problemas
+- 🔧 Técnico em Eletroeletrônica, graduado em Defesa Cibernética, com especializações em Threat Intelligence, Threat Hunting e Cibersegurança, curioso por natureza
+- 🐚 Sou entusiasta de cibersegurança, redes de computadores e infraestrutura, analiso tráfego, identifico anomalias e resolvo problemas
 
 ---
 ### ⚙️ Algumas tecnologias e ferramentas com as quais tenho familiaridade
