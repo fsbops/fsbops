@@ -8,13 +8,12 @@
 
 
 ### ThreatOps & Cybersecurity
-![Zeek](https://img.shields.io/badge/Network_Analysis-Zeek-blue?logo=wireshark&logoColor=white)
-![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black)
-![CTI](https://img.shields.io/badge/-CTI-121011?style=flat&logo=CTI&logoColor=white)
-![Team Cymru](https://img.shields.io/badge/-TeamCymru-121011?style=flat&logo=CTI&logoColor=red)
-![VirusTotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=flat&logo=virustotal&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-306998?style=flat&logo=wireshark&logoColor=white)
-![TCPDump](https://img.shields.io/badge/-TCPDump-306998?style=flat&logo=tcpdump&logoColor=white)
+
+![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black) </br>
+![CTI](https://img.shields.io/badge/-CTI-121011?style=flat&logo=CTI&logoColor=white) </br>
+![Team Cymru](https://img.shields.io/badge/-TeamCymru-121011?style=flat&logo=CTI&logoColor=red) </br>
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=flat&logo=virustotal&logoColor=white) </br>
+
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logo=opensearch&logoColor=white)
 
 ### ⚙️ Infrastructure & Virtualization
@@ -22,6 +21,9 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
 ### Network Anaylisis & Defense
+![Zeek](https://img.shields.io/badge/Network_Analysis-Zeek-blue?logo=wireshark&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Network_Analysis-Wireshark-white-306998?style=flat&logo=wireshark&logoColor=white)
+![TCPDump](https://img.shields.io/badge/Network_Analysis-TCPDump-black-306998?style=flat&logo=tcpdump&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white)
 ![pfSense](https://img.shields.io/badge/-pfSense-%23212121?style=flat&logo=pfsense&logoColor=white)
 
