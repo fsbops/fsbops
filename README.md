@@ -8,8 +8,8 @@
 
 
 ### ThreatOps & Cybersecurity
-
-![Zeek](https://img.shields.io/badge/Zeek-E55B13?style=flat&logo=linux&logoColor=white&labelColor=0D0000)
+![Zeek](https://img.shields.io/badge/Zeek-Network_Analysis-blue?logo=wireshark&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-E55B13?style=flat&logo=wireshark&logoColor=white&labelColor=0D0000)
 ![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black)
 ![CTI](https://img.shields.io/badge/-CTI-121011?style=flat&logo=CTI&logoColor=white)
 ![Team Cymru](https://img.shields.io/badge/-TeamCymru-121011?style=flat&logo=CTI&logoColor=red)
