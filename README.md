@@ -1,55 +1,82 @@
-### 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
-- 🔧 Técnico em Eletroeletrônica, graduado em Defesa Cibernética, com especializações em Threat Intelligence, Threat Hunting e Cibersegurança, curioso por natureza
-- 🐚 Sou entusiasta de cibersegurança, redes de computadores e infraestrutura, analiso tráfego, identifico anomalias e resolvo problemas
+Cybersecurity professional focused on **network and infrastructure defense**, with a background in Electronics Technology and a degree in Cyber Defense.
+
+My interests are centered around **Network Security Monitoring (NSM), Threat Intelligence, Threat Hunting, network traffic analysis, and infrastructure security**.
+
+I enjoy understanding how systems and networks behave, identifying anomalies, investigating suspicious activity, and building practical security monitoring capabilities.
 
 ---
-### ⚙️ Tech Stack
 
-<div align="center">
-### ThreatOps & Cybersecurity
+## ⚙️ Tech Stack
 
-![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black)
-![CTI](https://img.shields.io/badge/-CTI-121011?style=flat&logo=CTI&logoColor=white)
-![Team Cymru](https://img.shields.io/badge/-TeamCymru-121011?style=flat&logo=CTI&logoColor=red)
-![VirusTotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=flat&logo=virustotal&logoColor=white)
+### 🛡️ Security Operations & Threat Intelligence
 
-![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logo=opensearch&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/RITA-FCC624?style=flat&logoColor=black" alt="RITA"/>
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white" alt="VirusTotal"/>
+  <img src="https://img.shields.io/badge/Team_Cymru-121011?style=flat&logoColor=white" alt="Team Cymru"/>
+  <img src="https://img.shields.io/badge/Wazuh-005BAC?style=flat&logoColor=white" alt="Wazuh"/>
+</p>
+
+### 🌐 Network Security & Analysis
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Zeek-2C3E50?style=flat&logo=wireshark&logoColor=white" alt="Zeek"/>
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat&logo=snort&logoColor=white" alt="Suricata"/>
+  <img src="https://img.shields.io/badge/Wireshark-306998?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/tcpdump-306998?style=flat&logoColor=white" alt="tcpdump"/>
+  <img src="https://img.shields.io/badge/MikroTik-EA4335?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white" alt="pfSense"/>
+</p>
 
 ### ⚙️ Infrastructure & Virtualization
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
-### Network Anaylisis & Defense
-![Zeek](https://img.shields.io/badge/-Zeek-blue?logo=wireshark&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-306998?style=flat&logo=wireshark&logoColor=white)
-![TCPDump](https://img.shields.io/badge/-TCPDump-306998?style=flat&logo=tcpdump&logoColor=white) 
-![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white)
-![pfSense](https://img.shields.io/badge/-pfSense-%23212121?style=flat&logo=pfsense&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" alt="Proxmox"/>
+</p>
 
-### Scripting
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![TMUX](https://img.shields.io/badge/TMUX-1BB91F?style=flat&logo=tmux&logoColor=white)
+### 🐧 Linux & Automation
 
-### Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-![RaspberryPI](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="Tmux"/>
+</p>
 
-</div>
+### 🔧 Hardware & Embedded
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+</p>
 
 ---
 
-### 🚧 Projects
+## 🚧 Projects
 
-- 📦 **Intel gathering, network behavior, beaconing and persistence identification with open source firewall + NSM + SIEM integration**
-- 🔒 **ASM monitoring**
-- 🎯 **Domain based silent recon**
-  
+### 🔎 Network Intelligence & Threat Detection
+
+Intelligence gathering, network behavior analysis, beaconing detection, and persistence identification through the integration of **open-source firewall, Network Security Monitoring (NSM), and SIEM technologies**.
+
+### 🔒 Attack Surface Monitoring
+
+Continuous monitoring and assessment of externally exposed infrastructure and internet-facing assets.
+
+### 🎯 Domain-Based Passive Reconnaissance
+
+Automated collection and analysis of domain-related intelligence to support infrastructure discovery and threat analysis.
+
 ---
 
-### 📚 What I'm studying
+## 📚 Currently Exploring
 
-- 🔬 Linux proccess monitoring and information gathering with eBPF
-- 🌍 Threat Intelligence aggregation with honeypots and firewall logs
-- 🛠️ Wazuh misc integrations
+- 🔬 **eBPF** — Linux process monitoring, system telemetry, and information gathering.
+- 🌍 **Threat Intelligence** — Intelligence aggregation using honeypots and firewall telemetry.
+- 🛠️ **Wazuh** — Integrations, automation, and security monitoring workflows.
 
+---
+
+## 🧭 Areas of Interest
+
+`Network Defense` · `Network Security Monitoring` · `Threat Intelligence` · `Threat Hunting` · `Network Analysis` · `Infrastructure Security` · `Linux` · `Security Operations`
