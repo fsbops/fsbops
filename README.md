@@ -64,13 +64,13 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 - **LFC108: Cybersecurity Essentials** · The Linux Foundation · 2026
 - **CIS Controls Lead Implementer** · ITCERTS · 2025
 - **Linux Professional Institute Security Essentials** · Linux Professional Institute · 2024
-- **Especialização em Resposta a Incidentes e Forense** · RNP · 2024
+- **Digital Forensics and Incident Response** · RNP · 2024
 
 ### Network Defense & Infrastructure
 
 - **Introductorio de seguridad en redes - 2021** · LACNIC · 2021
-- **Curso de Boas Práticas Operacionais para Sistemas Autônomos - A distância** · NIC.br · 2021
-- **IPv6 Certification - Sage** · Hurricane Electric · 2021
+- **Best Operational Practices for Autonomous Systems - A distância** · NIC.br · 2021
+- **IPv6 Certification - Sage Level** · Hurricane Electric · 2021
 
 ### Linux & Systems
 
