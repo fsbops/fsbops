@@ -4,12 +4,11 @@
 - 🐚 Sou entusiasta de cibersegurança, redes de computadores e infraestrutura, analiso tráfego, identifico anomalias e resolvo problemas
 
 ---
-### ⚙️ Tech Stuff
+### ⚙️ Tech Stack
 
 
 ### ThreatOps & Cybersecurity
-![Zeek](https://img.shields.io/badge/Zeek-Network_Analysis-blue?logo=wireshark&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-E55B13?style=flat&logo=wireshark&logoColor=white&labelColor=0D0000)
+![Zeek](https://img.shields.io/badge/Network_Analysis-Zeek-blue?logo=wireshark&logoColor=white)
 ![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black)
 ![CTI](https://img.shields.io/badge/-CTI-121011?style=flat&logo=CTI&logoColor=white)
 ![Team Cymru](https://img.shields.io/badge/-TeamCymru-121011?style=flat&logo=CTI&logoColor=red)
@@ -22,7 +21,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
-### Networking
+### Network Anaylisis & Defense
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white)
 ![pfSense](https://img.shields.io/badge/-pfSense-%23212121?style=flat&logo=pfsense&logoColor=white)
 
