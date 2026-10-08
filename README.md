@@ -6,7 +6,7 @@
 ---
 ### ⚙️ Tech Stack
 
-
+<div align="center">
 ### ThreatOps & Cybersecurity
 
 ![RITA](https://img.shields.io/badge/-RITA-FCC624?style=flat&logo=RITA&logoColor=black) </br>
@@ -22,8 +22,8 @@
 
 ### Network Anaylisis & Defense
 ![Zeek](https://img.shields.io/badge/-Zeek-blue?logo=wireshark&logoColor=white) </br>
-![Wireshark](https://img.shields.io/badge/-Wireshark-white-306998?style=flat&logo=wireshark&logoColor=white) </br>
-![TCPDump](https://img.shields.io/badge/-TCPDump-black-306998?style=flat&logo=tcpdump&logoColor=white) </br>
+![Wireshark](https://img.shields.io/badge/-Wireshark-306998?style=flat&logo=wireshark&logoColor=white) </br>
+![TCPDump](https://img.shields.io/badge/-TCPDump-306998?style=flat&logo=tcpdump&logoColor=white) </br>
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white) </br>
 ![pfSense](https://img.shields.io/badge/-pfSense-%23212121?style=flat&logo=pfsense&logoColor=white) </br>
 
