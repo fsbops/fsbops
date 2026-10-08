@@ -53,6 +53,33 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 
 ---
 
+## Professional Milestones
+
+### Cyber Defense & Threat Intelligence
+
+- **Cyber Threat Intelligence** · Hackers Hive · 2026
+- **Cyber Threat Hunting** · Hackers Hive · 2026
+- **Certified Threat Intelligence & Governance Analyst (CTIGA)** · Red Team Leaders · 2026
+- **Cybersecurity Specialist** · Hackers Hive · 2026
+- **LFC108: Cybersecurity Essentials** · The Linux Foundation · 2026
+- **CIS Controls Lead Implementer** · ITCERTS · 2025
+- **Linux Professional Institute Security Essentials** · Linux Professional Institute · 2024
+- **Especialização em Resposta a Incidentes e Forense** · RNP · 2024
+
+### Network Defense & Infrastructure
+
+- **Introductorio de seguridad en redes - 2021** · LACNIC · 2021
+- **Curso de Boas Práticas Operacionais para Sistemas Autônomos - A distância** · NIC.br · 2021
+- **IPv6 Certification - Sage** · Hurricane Electric · 2021
+
+### Linux & Systems
+
+- **Ghost Operative** · BreachLab · 2026
+- **Linux Fundamentos** · FIAP · 2023
+
+---
+
+
 ## 🚧 Projects
 
 ### 🔎 Network Intelligence & Threat Detection
