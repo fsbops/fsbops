@@ -17,23 +17,23 @@
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005BAC?style=flat&logo=opensearch&logoColor=white)
 
 ### ⚙️ Infrastructure & Virtualization
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) </br>
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) </br>
 
 ### Network Anaylisis & Defense
-![Zeek](https://img.shields.io/badge/Network_Analysis-Zeek-blue?logo=wireshark&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Network_Analysis-Wireshark-white-306998?style=flat&logo=wireshark&logoColor=white)
-![TCPDump](https://img.shields.io/badge/Network_Analysis-TCPDump-black-306998?style=flat&logo=tcpdump&logoColor=white)
-![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white)
-![pfSense](https://img.shields.io/badge/-pfSense-%23212121?style=flat&logo=pfsense&logoColor=white)
+![Zeek](https://img.shields.io/badge/-Zeek-blue?logo=wireshark&logoColor=white) </br>
+![Wireshark](https://img.shields.io/badge/-Wireshark-white-306998?style=flat&logo=wireshark&logoColor=white) </br>
+![TCPDump](https://img.shields.io/badge/-TCPDump-black-306998?style=flat&logo=tcpdump&logoColor=white) </br>
+![Mikrotik](https://img.shields.io/badge/-Mikrotik-EA4335?style=flat&logo=mikrotik&logoColor=white) </br>
+![pfSense](https://img.shields.io/badge/-pfSense-%23212121?style=flat&logo=pfsense&logoColor=white) </br>
 
 ### Scripting
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![TMUX](https://img.shields.io/badge/TMUX-1BB91F?style=flat&logo=tmux&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white) </br>
+![TMUX](https://img.shields.io/badge/TMUX-1BB91F?style=flat&logo=tmux&logoColor=white) </br>
 
 ### Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-![RaspberryPI](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white) </br>
+![RaspberryPI](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white) </br>
 
 </div>
 
