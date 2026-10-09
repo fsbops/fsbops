@@ -47,9 +47,11 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 ### 🔧 Hardware & Embedded
 
 <p align="left">
-![ESP32](https://img.shields.io/badge/Hardware-ESP32-E7352C?logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Hardware-Arduino-00878F?logo=arduino&logoColor=white)
+  
+ <img src=https://img.shields.io/badge/Hardware-ESP32-E7352C?logo=espressif&logoColor=white/>
+ <img src=https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white/>
+ <img src=https://img.shields.io/badge/Hardware-Arduino-00878F?logo=arduino&logoColor=white/>
+
 </p>
 
 ## Wireless Research
@@ -58,7 +60,7 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 ![Wi-Fi](https://img.shields.io/badge/Wireless-Wi--Fi%20Scanning-0078D4?logo=wifi)
 ![Bluetooth LE](https://img.shields.io/badge/Protocol-Bluetooth%20LE-0082FC?logo=bluetooth&logoColor=white)
 ![GPS](https://img.shields.io/badge/Navigation-GPS-2E8B57)
-![SDR](https://img.shields.io/badge/Radio-SDR-555555)
+![Meshtastic](https://img.shields.io/badge/Mesh-Meshtastic-6C5CE7)
 
 ---
 
