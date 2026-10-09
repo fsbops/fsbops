@@ -47,20 +47,20 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 ### 🔧 Hardware & Embedded
 
 <p align="left">
-  
  <img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?logo=espressif&logoColor=white" alt="ESP32"/>
  <img src="https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white" alt="RaspberryPi"/>
  <img src="https://img.shields.io/badge/Hardware-Arduino-00878F?logo=arduino&logoColor=white" alt="Arduino"/>
-
 </p>
 
 ## 📡 Wireless Research
 
+<p align="left">
  <img src="https://img.shields.io/badge/Research-Wardriving-FF6F00?logo=wifi&logoColor=white" alt="Wardriving"/>
  <img src="https://img.shields.io/badge/Wireless-Wi--Fi%20Scanning-0078D4?logo=wifi" alt="Wireless"/>
  <img src="https://img.shields.io/badge/Protocol-Bluetooth%20LE-0082FC?logo=bluetooth&logoColor=white" alt="BLE"/>
  <img src="https://img.shields.io/badge/Navigation-GPS-2E8B57" alt="GPS"/>
  <img src="https://img.shields.io/badge/Mesh-Meshtastic-6C5CE7" alt="Meshtastic"/>
+</p>
 
 ---
 
