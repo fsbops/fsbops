@@ -52,7 +52,7 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
  <img src="https://img.shields.io/badge/Hardware-Arduino-00878F?logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
 
-## 📡 Wireless Research
+### 📡 Wireless Research
 
 <p align="left">
  <img src="https://img.shields.io/badge/Research-Wardriving-FF6F00?logo=wifi&logoColor=white" alt="Wardriving"/>
