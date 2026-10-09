@@ -47,12 +47,18 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 ### 🔧 Hardware & Embedded
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-
-  <img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Research-Wardriving-FF6F00?style=flat-square&logo=wifi&logoColor=white"/> 
+![ESP32](https://img.shields.io/badge/Hardware-ESP32-E7352C?logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Hardware-Arduino-00878F?logo=arduino&logoColor=white)
 </p>
+
+## Wireless Research
+
+![Wardriving](https://img.shields.io/badge/Research-Wardriving-FF6F00?logo=wifi&logoColor=white)
+![Wi-Fi](https://img.shields.io/badge/Wireless-Wi--Fi%20Scanning-0078D4?logo=wifi)
+![Bluetooth LE](https://img.shields.io/badge/Protocol-Bluetooth%20LE-0082FC?logo=bluetooth&logoColor=white)
+![GPS](https://img.shields.io/badge/Navigation-GPS-2E8B57)
+![SDR](https://img.shields.io/badge/Radio-SDR-555555)
 
 ---
 
