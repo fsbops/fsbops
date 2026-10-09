@@ -48,9 +48,9 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 
 <p align="left">
   
- <img src=https://img.shields.io/badge/Hardware-ESP32-E7352C?logo=espressif&logoColor=white/>
- <img src=https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white/>
- <img src=https://img.shields.io/badge/Hardware-Arduino-00878F?logo=arduino&logoColor=white/>
+ <img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?logo=espressif&logoColor=white" alt="ESP32"/>
+ <img src="https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white" alt="RaspberryPi"/>
+ <img src="https://img.shields.io/badge/Hardware-Arduino-00878F?logo=arduino&logoColor=white" alt="Arduino"/>
 
 </p>
 
