@@ -49,6 +49,9 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+
+  <img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Research-Wardriving-FF6F00?style=flat-square&logo=wifi&logoColor=white"/> 
 </p>
 
 ---
