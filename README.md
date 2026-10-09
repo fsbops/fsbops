@@ -54,13 +54,13 @@ I enjoy understanding how systems and networks behave, identifying anomalies, in
 
 </p>
 
-## Wireless Research
+## 📡 Wireless Research
 
-![Wardriving](https://img.shields.io/badge/Research-Wardriving-FF6F00?logo=wifi&logoColor=white)
-![Wi-Fi](https://img.shields.io/badge/Wireless-Wi--Fi%20Scanning-0078D4?logo=wifi)
-![Bluetooth LE](https://img.shields.io/badge/Protocol-Bluetooth%20LE-0082FC?logo=bluetooth&logoColor=white)
-![GPS](https://img.shields.io/badge/Navigation-GPS-2E8B57)
-![Meshtastic](https://img.shields.io/badge/Mesh-Meshtastic-6C5CE7)
+ <img src="https://img.shields.io/badge/Research-Wardriving-FF6F00?logo=wifi&logoColor=white" alt="Wardriving"/>
+ <img src="https://img.shields.io/badge/Wireless-Wi--Fi%20Scanning-0078D4?logo=wifi" alt="Wireless"/>
+ <img src="https://img.shields.io/badge/Protocol-Bluetooth%20LE-0082FC?logo=bluetooth&logoColor=white" alt="BLE"/>
+ <img src="https://img.shields.io/badge/Navigation-GPS-2E8B57" alt="GPS"/>
+ <img src="https://img.shields.io/badge/Mesh-Meshtastic-6C5CE7" alt="Meshtastic"/>
 
 ---
 
